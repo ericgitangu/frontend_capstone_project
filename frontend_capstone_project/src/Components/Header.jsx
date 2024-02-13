@@ -10,7 +10,7 @@ export default function Header() {
             <meta name="description" content="Little Lemon - A mediteranean bistro with a New York Twist"/>
             <meta name="og:title" content="little_lemon"/>
             <meta name="og:description" content="Little Lemon - A mediteranean bistro with a New York Twist"/>
-            <meta name="og:image" content="../Logo.svg"/>
+            <meta name="og:image" content="../../public/logo512.png"/>
         </header>
     )
 }
